@@ -1,0 +1,29 @@
+.table{
+    margin-left: 5%;
+    width: 90vw;
+}
+.tablebox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 90.5vh;
+    /* border: 2px solid rgb(161, 72, 72); */
+    
+}
+.mode{
+    margin-left: 5%;
+}
+.addrow{
+    width: 70vw;
+    margin: 0px 5% ;
+    display: flex;
+    justify-content: space-between;
+    /* flex-wrap: wrap; */
+}
+.addcontact{
+    /* border: 2px solid pink; */
+    margin:2% 0px 1% 5%;
+}
+.btn{
+    width:8vw;
+}
